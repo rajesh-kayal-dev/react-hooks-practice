@@ -13,7 +13,12 @@ Built using **React + Vite**.
 - useCallback
 - useContext
 - useReducer
+- useLayoutEffect
 - Custom Hooks
+
+  ## Custom Hooks Implemented
+
+- useFetch (API data fetching)
 
 ## Project Structure
 
